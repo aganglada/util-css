@@ -1,0 +1,20 @@
+.u-overflow--inherit {
+	overflow: inherit;
+}
+
+.u-overflow--visible {
+	overflow: visible;
+}
+
+.u-overflow--hidden {
+	overflow: hidden;
+}
+
+.u-overflow--scroll {
+	overflow: scroll;
+}
+
+.u-overflow--auto {
+	overflow: auto;
+}
+

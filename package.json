@@ -1,0 +1,19 @@
+{
+  "name": "util-css",
+  "version": "1.0.0",
+  "description": "css utils",
+  "scripts": {
+    "generate": "node generator/generator"
+  },
+  "keywords": [
+    "css",
+    "utils",
+    "styles",
+    "web"
+  ],
+  "author": "Alejandro Garcia Anglada <aganglada@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "~3.10.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "direction": {
+    "direction--inherit": "inherit",
+    "direction--ltr": "ltr",
+    "direction--rtl": "rtl"
+  }
+}

@@ -1,0 +1,28 @@
+.u-text-justify--auto {
+	text-justify: auto;
+}
+
+.u-text-justify--distribute {
+	text-justify: distribute;
+}
+
+.u-text-justify--distribute-all-lines {
+	text-justify: distribute-all-lines;
+}
+
+.u-text-justify--inter-cluster {
+	text-justify: inter-cluster;
+}
+
+.u-text-justify--inter-ideograph {
+	text-justify: inter-ideograph;
+}
+
+.u-text-justify--inter-word {
+	text-justify: inter-word;
+}
+
+.u-text-justify--newspaper {
+	text-justify: newspaper;
+}
+

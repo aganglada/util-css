@@ -1,0 +1,20 @@
+.u-text-transform--inherit {
+	text-transform: inherit;
+}
+
+.u-text-transform--none {
+	text-transform: none;
+}
+
+.u-text-transform--capitalize {
+	text-transform: capitalize;
+}
+
+.u-text-transform--uppercase {
+	text-transform: uppercase;
+}
+
+.u-text-transform--lowercase {
+	text-transform: lowercase;
+}
+

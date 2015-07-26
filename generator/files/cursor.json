@@ -1,0 +1,7 @@
+{
+  "cursor": {
+    "cursor--inherit": "inherit",
+    "cursor--default": "default",
+    "cursor--pointer": "pointer"
+  }
+}

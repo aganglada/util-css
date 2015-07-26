@@ -1,0 +1,9 @@
+{
+  "clear": {
+    "clear--inherit": "inherit",
+    "clear--none": "none",
+    "clear--left": "left",
+    "clear--right": "right",
+    "clear--both": "both"
+  }
+}

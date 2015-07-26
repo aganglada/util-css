@@ -1,0 +1,24 @@
+.u-text-decoration--inherit {
+	text-decoration: inherit;
+}
+
+.u-text-decoration--none {
+	text-decoration: none;
+}
+
+.u-text-decoration--underline {
+	text-decoration: underline;
+}
+
+.u-text-decoration--overline {
+	text-decoration: overline;
+}
+
+.u-text-decoration--line-through {
+	text-decoration: line-through;
+}
+
+.u-text-decoration--blink {
+	text-decoration: blink;
+}
+

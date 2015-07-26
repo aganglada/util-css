@@ -1,0 +1,10 @@
+{
+  "text-decoration": {
+    "text-decoration--inherit": "inherit",
+    "text-decoration--none": "none",
+    "text-decoration--underline": "underline",
+    "text-decoration--overline": "overline",
+    "text-decoration--line-through": "line-through",
+    "text-decoration--blink": "blink"
+  }
+}

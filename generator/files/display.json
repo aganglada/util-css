@@ -1,0 +1,17 @@
+{
+  "display": {
+    "display--inherit": "inherit",
+    "display--block": "block",
+    "display--inline": "inline",
+    "display--none": "none",
+    "display--inline-block": "inline-block",
+    "display--list-item": "list-item",
+    "display--marker": "marker",
+    "display--compact": "compact",
+    "display--run-in": "run-in",
+    "display--table": "table",
+    "display--inline-table": "inline-table",
+    "display--table-caption": "table-caption",
+    "display--table-cell": "table-cell"
+  }
+}

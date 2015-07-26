@@ -1,0 +1,12 @@
+.u-direction--inherit {
+	direction: inherit;
+}
+
+.u-direction--ltr {
+	direction: ltr;
+}
+
+.u-direction--rtl {
+	direction: rtl;
+}
+

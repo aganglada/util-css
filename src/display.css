@@ -1,0 +1,52 @@
+.u-display--inherit {
+	display: inherit;
+}
+
+.u-display--block {
+	display: block;
+}
+
+.u-display--inline {
+	display: inline;
+}
+
+.u-display--none {
+	display: none;
+}
+
+.u-display--inline-block {
+	display: inline-block;
+}
+
+.u-display--list-item {
+	display: list-item;
+}
+
+.u-display--marker {
+	display: marker;
+}
+
+.u-display--compact {
+	display: compact;
+}
+
+.u-display--run-in {
+	display: run-in;
+}
+
+.u-display--table {
+	display: table;
+}
+
+.u-display--inline-table {
+	display: inline-table;
+}
+
+.u-display--table-caption {
+	display: table-caption;
+}
+
+.u-display--table-cell {
+	display: table-cell;
+}
+

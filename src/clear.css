@@ -1,0 +1,20 @@
+.u-clear--inherit {
+	clear: inherit;
+}
+
+.u-clear--none {
+	clear: none;
+}
+
+.u-clear--left {
+	clear: left;
+}
+
+.u-clear--right {
+	clear: right;
+}
+
+.u-clear--both {
+	clear: both;
+}
+

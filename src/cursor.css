@@ -1,0 +1,12 @@
+.u-cursor--inherit {
+	cursor: inherit;
+}
+
+.u-cursor--default {
+	cursor: default;
+}
+
+.u-cursor--pointer {
+	cursor: pointer;
+}
+

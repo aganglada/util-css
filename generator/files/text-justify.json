@@ -1,0 +1,11 @@
+{
+  "text-justify": {
+    "text-justify--auto": "auto",
+    "text-justify--distribute": "distribute",
+    "text-justify--distribute-all-lines": "distribute-all-lines",
+    "text-justify--inter-cluster": "inter-cluster",
+    "text-justify--inter-ideograph": "inter-ideograph",
+    "text-justify--inter-word": "inter-word",
+    "text-justify--newspaper": "newspaper"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "float": {
+    "float--left": "left",
+    "float--right": "right",
+    "float--none": "none"
+  }
+}
