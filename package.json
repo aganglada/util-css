@@ -12,6 +12,10 @@
     "web"
   ],
   "author": "Alejandro Garcia Anglada <aganglada@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aganglada/util-css.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "lodash": "~3.10.0"
